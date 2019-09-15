@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="gpslam" targetName="check.gp" />
+      <config projectName="gpslam" targetName="testGaussianProcessPriorLinear" />
+      <config projectName="gpslam" targetName="testSerializationGP" />
+      <config projectName="gpslam" targetName="testGaussianProcessPriorPose3VW.run" />
+      <config projectName="gpslam" targetName="testSerializationSLAM.run" />
+      <config projectName="gpslam" targetName="testRangeBearingFactor2DLinear" />
+      <config projectName="gpslam" targetName="testGPInterpolatedRangeFactorPose3" />
+      <config projectName="gpslam" targetName="testGPInterpolatedRangeFactorPose2" />
+      <config projectName="gpslam" targetName="testGaussianProcessInterpolatorPose3" />
+      <config projectName="gpslam" targetName="testGaussianProcessInterpolatorPose2" />
+      <config projectName="gpslam" targetName="examples" />
+      <config projectName="gpslam" targetName="testGPInterpolatedProjectionFactorPose3.run" />
+      <config projectName="gpslam" targetName="check" />
+      <config projectName="gpslam" targetName="testGaussianProcessPriorPose3.run" />
+      <config projectName="gpslam" targetName="testGaussianProcessInterpolatorRot3" />
+      <config projectName="gpslam" targetName="testGaussianProcessPriorRot3.run" />
+      <config projectName="gpslam" targetName="testGPInterpolatedRangeFactor2DLinear.run" />
+      <config projectName="gpslam" targetName="testGaussianProcessInterpolatorLinear.run" />
+      <config projectName="gpslam" targetName="testOdometryFactor2DLinear" />
+      <config projectName="gpslam" targetName="testPose3Utils" />
+      <config projectName="gpslam" targetName="testGaussianProcessInterpolatorPose3.run" />
+      <config projectName="gpslam" targetName="testGaussianProcessInterpolatorRot3.run" />
+      <config projectName="gpslam" targetName="testGaussianProcessPriorPose2.run" />
+      <config projectName="gpslam" targetName="testGPInterpolatedRangeFactorPose2.run" />
+      <config projectName="gpslam" targetName="testGPInterpolatedRangeFactorPose3.run" />
+      <config projectName="gpslam" targetName="check.slam" />
+      <config projectName="gpslam" targetName="all.tests" />
+      <config projectName="gpslam" targetName="testOdometryFactor2DLinear.run" />
+      <config projectName="gpslam" targetName="timing" />
+      <config projectName="gpslam" targetName="testGPInterpolatedRangeFactor2DLinear" />
+      <config projectName="gpslam" targetName="testGPInterpolatedGPSFactorPose3.run" />
+      <config projectName="gpslam" targetName="gpslam" />
+      <config projectName="gpslam" targetName="testRangeBearingFactor2DLinear.run" />
+      <config projectName="gpslam" targetName="testGPInterpolatedProjectionFactorPose3" />
+      <config projectName="gpslam" targetName="testGaussianProcessInterpolatorPose3VW" />
+      <config projectName="gpslam" targetName="testGPInterpolatedGPSFactorPose3VW" />
+      <config projectName="gpslam" targetName="testSerializationSLAM" />
+      <config projectName="gpslam" targetName="testGaussianProcessPriorRot3" />
+      <config projectName="gpslam" targetName="testGPInterpolatedGPSFactorPose3VW.run" />
+      <config projectName="gpslam" targetName="testGaussianProcessInterpolatorPose3VW.run" />
+      <config projectName="gpslam" targetName="testGaussianProcessPriorPose3" />
+      <config projectName="gpslam" targetName="testGaussianProcessPriorPose2" />
+      <config projectName="gpslam" targetName="testGaussianProcessPriorPose3VW" />
+      <config projectName="gpslam" targetName="testRangeFactor2DLinear.run" />
+      <config projectName="gpslam" targetName="testPose3Utils.run" />
+      <config projectName="gpslam" targetName="testGaussianProcessInterpolatorPose2.run" />
+      <config projectName="gpslam" targetName="testSerializationGP.run" />
+      <config projectName="gpslam" targetName="testGPInterpolatedGPSFactorPose3" />
+      <config projectName="gpslam" targetName="testRangeFactor2DLinear" />
+      <config projectName="gpslam" targetName="testGaussianProcessInterpolatorLinear" />
+      <config projectName="gpslam" targetName="testGaussianProcessPriorLinear.run" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c451f565-cd29-4eae-8d99-d2b977e3dfb2" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1QXolndDCECtkljqehKnktMw8oZ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gpmp2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake 应用程序.testGaussianProcessInterpolatorLinear">
+    <configuration name="all.tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="all.tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="check" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check.gp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="check.gp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check.slam" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="check.slam" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="examples" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="examples" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gpslam" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="gpslam" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGPInterpolatedGPSFactorPose3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGPInterpolatedGPSFactorPose3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGPInterpolatedGPSFactorPose3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGPInterpolatedGPSFactorPose3VW" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGPInterpolatedGPSFactorPose3VW" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGPInterpolatedGPSFactorPose3VW">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGPInterpolatedGPSFactorPose3VW.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGPInterpolatedGPSFactorPose3VW.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGPInterpolatedGPSFactorPose3.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGPInterpolatedGPSFactorPose3.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGPInterpolatedProjectionFactorPose3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGPInterpolatedProjectionFactorPose3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGPInterpolatedProjectionFactorPose3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGPInterpolatedProjectionFactorPose3.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGPInterpolatedProjectionFactorPose3.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGPInterpolatedRangeFactor2DLinear" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGPInterpolatedRangeFactor2DLinear" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGPInterpolatedRangeFactor2DLinear">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGPInterpolatedRangeFactor2DLinear.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGPInterpolatedRangeFactor2DLinear.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGPInterpolatedRangeFactorPose2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGPInterpolatedRangeFactorPose2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGPInterpolatedRangeFactorPose2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGPInterpolatedRangeFactorPose2.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGPInterpolatedRangeFactorPose2.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGPInterpolatedRangeFactorPose3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGPInterpolatedRangeFactorPose3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGPInterpolatedRangeFactorPose3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGPInterpolatedRangeFactorPose3.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGPInterpolatedRangeFactorPose3.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessInterpolatorLinear" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessInterpolatorLinear" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGaussianProcessInterpolatorLinear">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessInterpolatorLinear.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessInterpolatorLinear.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessInterpolatorPose2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessInterpolatorPose2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGaussianProcessInterpolatorPose2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessInterpolatorPose2.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessInterpolatorPose2.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessInterpolatorPose3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessInterpolatorPose3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGaussianProcessInterpolatorPose3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessInterpolatorPose3VW" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessInterpolatorPose3VW" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGaussianProcessInterpolatorPose3VW">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessInterpolatorPose3VW.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessInterpolatorPose3VW.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessInterpolatorPose3.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessInterpolatorPose3.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessInterpolatorRot3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessInterpolatorRot3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGaussianProcessInterpolatorRot3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessInterpolatorRot3.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessInterpolatorRot3.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessPriorLinear" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessPriorLinear" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGaussianProcessPriorLinear">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessPriorLinear.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessPriorLinear.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessPriorPose2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessPriorPose2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGaussianProcessPriorPose2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessPriorPose2.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessPriorPose2.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessPriorPose3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessPriorPose3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGaussianProcessPriorPose3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessPriorPose3VW" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessPriorPose3VW" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGaussianProcessPriorPose3VW">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessPriorPose3VW.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessPriorPose3VW.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessPriorPose3.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessPriorPose3.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessPriorRot3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessPriorRot3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testGaussianProcessPriorRot3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGaussianProcessPriorRot3.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testGaussianProcessPriorRot3.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testOdometryFactor2DLinear" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testOdometryFactor2DLinear" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testOdometryFactor2DLinear">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testOdometryFactor2DLinear.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testOdometryFactor2DLinear.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testPose3Utils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testPose3Utils" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testPose3Utils">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testPose3Utils.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testPose3Utils.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testRangeBearingFactor2DLinear" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testRangeBearingFactor2DLinear" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testRangeBearingFactor2DLinear">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testRangeBearingFactor2DLinear.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testRangeBearingFactor2DLinear.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testRangeFactor2DLinear" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testRangeFactor2DLinear" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testRangeFactor2DLinear">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testRangeFactor2DLinear.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testRangeFactor2DLinear.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSerializationGP" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testSerializationGP" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testSerializationGP">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSerializationGP.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testSerializationGP.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSerializationSLAM" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testSerializationSLAM" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpslam" RUN_TARGET_NAME="testSerializationSLAM">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSerializationSLAM.run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="testSerializationSLAM.run" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpslam" TARGET_NAME="timing" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.all.tests" />
+      <item itemvalue="CMake 应用程序.check" />
+      <item itemvalue="CMake 应用程序.examples" />
+      <item itemvalue="CMake 应用程序.timing" />
+      <item itemvalue="CMake 应用程序.gpslam" />
+      <item itemvalue="CMake 应用程序.check.gp" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessInterpolatorLinear" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessInterpolatorLinear.run" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessInterpolatorPose2" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessInterpolatorPose2.run" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessInterpolatorPose3" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessInterpolatorPose3.run" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessInterpolatorPose3VW" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessInterpolatorPose3VW.run" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessInterpolatorRot3" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessInterpolatorRot3.run" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessPriorLinear" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessPriorLinear.run" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessPriorPose2" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessPriorPose2.run" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessPriorPose3" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessPriorPose3.run" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessPriorPose3VW" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessPriorPose3VW.run" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessPriorRot3" />
+      <item itemvalue="CMake 应用程序.testGaussianProcessPriorRot3.run" />
+      <item itemvalue="CMake 应用程序.testPose3Utils" />
+      <item itemvalue="CMake 应用程序.testPose3Utils.run" />
+      <item itemvalue="CMake 应用程序.testSerializationGP" />
+      <item itemvalue="CMake 应用程序.testSerializationGP.run" />
+      <item itemvalue="CMake 应用程序.check.slam" />
+      <item itemvalue="CMake 应用程序.testGPInterpolatedGPSFactorPose3" />
+      <item itemvalue="CMake 应用程序.testGPInterpolatedGPSFactorPose3.run" />
+      <item itemvalue="CMake 应用程序.testGPInterpolatedGPSFactorPose3VW" />
+      <item itemvalue="CMake 应用程序.testGPInterpolatedGPSFactorPose3VW.run" />
+      <item itemvalue="CMake 应用程序.testGPInterpolatedProjectionFactorPose3" />
+      <item itemvalue="CMake 应用程序.testGPInterpolatedProjectionFactorPose3.run" />
+      <item itemvalue="CMake 应用程序.testGPInterpolatedRangeFactor2DLinear" />
+      <item itemvalue="CMake 应用程序.testGPInterpolatedRangeFactor2DLinear.run" />
+      <item itemvalue="CMake 应用程序.testGPInterpolatedRangeFactorPose2" />
+      <item itemvalue="CMake 应用程序.testGPInterpolatedRangeFactorPose2.run" />
+      <item itemvalue="CMake 应用程序.testGPInterpolatedRangeFactorPose3" />
+      <item itemvalue="CMake 应用程序.testGPInterpolatedRangeFactorPose3.run" />
+      <item itemvalue="CMake 应用程序.testOdometryFactor2DLinear" />
+      <item itemvalue="CMake 应用程序.testOdometryFactor2DLinear.run" />
+      <item itemvalue="CMake 应用程序.testRangeBearingFactor2DLinear" />
+      <item itemvalue="CMake 应用程序.testRangeBearingFactor2DLinear.run" />
+      <item itemvalue="CMake 应用程序.testRangeFactor2DLinear" />
+      <item itemvalue="CMake 应用程序.testRangeFactor2DLinear.run" />
+      <item itemvalue="CMake 应用程序.testSerializationSLAM" />
+      <item itemvalue="CMake 应用程序.testSerializationSLAM.run" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c451f565-cd29-4eae-8d99-d2b977e3dfb2" name="默认更改列表" comment="" />
+      <created>1567926455759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567926455759</updated>
+      <workItem from="1567926457181" duration="90000" />
+      <workItem from="1568270644911" duration="328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
